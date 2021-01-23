@@ -1,8 +1,0 @@
-{
-	"name": "removeattrcap",
-	"title": "Remove Attribute Cap",
-	"description": "Removes attribute caps for PC/NPC character sheets in Coriolis.",
-	"author": "Shadowgwah",
-	"version": "1.0.0",
-	"minimumCoreVersion": "0.7.0"
-}
