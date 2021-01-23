@@ -1,0 +1,23 @@
+{
+  "name": "removeattrcap",
+  "title": "Remove Attribute Cap",
+  "description": "Remove attribute cap for Coriolis PC/NPC characters",
+  "author": "shadowgwah",
+  "version": "2.0.0",
+  "minimumCoreVersion": "0.7.0",
+
+
+  "url": "https://github.com/shadowgwah/coriolis",
+  "manifest": "https://github.com/shadowgwah/coriolis/releases/download/v2.0.0/module.json",
+  "download": "https://github.com/shadowgwah/coriolis/releases/download/v2.0.0/removeattrcap.zip"
+
+
+
+
+
+
+
+
+
+
+}
